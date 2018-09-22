@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Resposnive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass scss/main.scss dist/css/style.css -w"
+  },
+  "author": "iUsman",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
