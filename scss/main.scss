@@ -1,6 +1,10 @@
 @import "config";
 @import "menu";
 
+.bd {
+  border: 2px solid gold;
+}
+
 * {
   box-sizing: border-box;
 }
